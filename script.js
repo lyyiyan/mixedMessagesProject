@@ -15,5 +15,3 @@ const generate = () => {
     console.log(`Your assistant will be the experienced ${newAssistant}.`)
     console.log(`Be excited because the board will support you with funds to purchase ${newSigning}!`)
 }
-
-generate()
